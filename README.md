@@ -136,7 +136,7 @@ The project follows a layered architecture aligned with the Spring Framework sta
 
 - **Example of Request and Response**:
 
-![GetGames Request and Response](https://github.com/matheubtguerra/DSlist/screenshots/GetGames.jpg)
+![GetGames Request and Response](https://github.com/matheusbtguerra/DSlist/blob/main/screenshots/GetGames.jpg)
 
 ---
 
@@ -148,7 +148,7 @@ The project follows a layered architecture aligned with the Spring Framework sta
 
 - **Example of Request and Response**:
 
-![GetGameById Request and Response](https://github.com/matheubtguerra/DSlist/screenshots/GetGameById.jpg)
+![GetGameById Request and Response](https://github.com/matheusbtguerra/DSlist/blob/main/screenshots/GetGameById.jpg)
 
 ---
 
@@ -160,7 +160,7 @@ The project follows a layered architecture aligned with the Spring Framework sta
 
 - **Example of Request and Response**:
 
-![GetLists Request and Response](https://github.com/matheubtguerra/DSlist/screenshots/GetLists.jpg)
+![GetLists Request and Response](https://github.com/matheusbtguerra/DSlist/blob/main/screenshots/GetLists.jpg)
 
 ---
 
@@ -172,7 +172,7 @@ The project follows a layered architecture aligned with the Spring Framework sta
 
 - **Example of Request and Response**:
 
-![GetGameByList Request and Response](https://github.com/matheubtguerra/DSlist/screenshots/GetGameByList.jpg)
+![GetGameByList Request and Response](https://github.com/matheusbtguerra/DSlist/blob/main/screenshots/GetGameByList.jpg)
 
 ---
 
@@ -194,10 +194,10 @@ The project follows a layered architecture aligned with the Spring Framework sta
 
 - **Example of Request and Response**:
 
-![GameReplacement Request and Response](https://github.com/matheubtguerra/DSlist/screenshots/GameReplacement.jpg)
+![GameReplacement Request and Response](https://github.com/matheusbtguerra/DSlist/blob/main/screenshots/GameReplacement.jpg)
 
-![H2DB Before](https://github.com/matheubtguerra/DSlist/screenshots/H2Before.jpg)
-![H2DB After](https://github.com/matheubtguerra/DSlist/screenshots/H2After.jpg)
+**Before**: ![H2DB Before](https://github.com/matheusbtguerra/DSlist/blob/main/screenshots/H2Before.jpg)
+**After**: ![H2DB After](https://github.com/matheusbtguerra/DSlist/blob/main/screenshots/H2After.jpg)
 
 ---
 
